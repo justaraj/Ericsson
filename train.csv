@@ -1,0 +1,131 @@
+use_case,details,process_flow,text
+General Reporting,,,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+General Reporting
+### process flow
+"
+Voice CDR,System shall ingest Call Detail Records (CDR) data for voice services.; System shall handle errors and store CDRs in the database.,"User uploads voice CDR files to the system.; System processes the files, validates, and ingests data into the database.; System logs any errors encountered during processing.","below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+Voice CDR
+ details
+System shall ingest Call Detail Records (CDR) data for voice services.; System shall handle errors and store CDRs in the database.
+### process flow
+User uploads voice CDR files to the system.; System processes the files, validates, and ingests data into the database.; System logs any errors encountered during processing."
+Rejected CDR,System shall generate reports for rejected CDRs.,User accesses the Rejected CDR report section.; User specifies criteria for the report.; System fetches data based on criteria and displays the report.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+Rejected CDR
+ details
+System shall generate reports for rejected CDRs.
+### process flow
+User accesses the Rejected CDR report section.; User specifies criteria for the report.; System fetches data based on criteria and displays the report."
+Carrier Tarif,System shall manage carrier tariff data.; System shall provide a dashboard for tariff data.,User inputs carrier tariff data.; System stores and processes the tariff data.; System updates the dashboard with the new tariff data.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+Carrier Tarif
+ details
+System shall manage carrier tariff data.; System shall provide a dashboard for tariff data.
+### process flow
+User inputs carrier tariff data.; System stores and processes the tariff data.; System updates the dashboard with the new tariff data."
+Invoices,System shall generate invoices for services provided.,User initiates invoice generation.; System compiles data and generates the invoice.; System presents the invoice to the user for review and export.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+Invoices
+ details
+System shall generate invoices for services provided.
+### process flow
+User initiates invoice generation.; System compiles data and generates the invoice.; System presents the invoice to the user for review and export."
+Usage Gap Report,System shall generate usage gap reports for reconciliation purposes.,User accesses the Usage Gap Report section.; User specifies the report parameters.; System retrieves data and generates the report.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+Usage Gap Report
+ details
+System shall generate usage gap reports for reconciliation purposes.
+### process flow
+User accesses the Usage Gap Report section.; User specifies the report parameters.; System retrieves data and generates the report."
+Automatic Reconciliation Reporting,System shall perform automatic reconciliation of usage data.,System automatically fetches and processes data.; System reconciles data and generates reports.; User reviews and exports the reports.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+Automatic Reconciliation Reporting
+ details
+System shall perform automatic reconciliation of usage data.
+### process flow
+System automatically fetches and processes data.; System reconciles data and generates reports.; User reviews and exports the reports."
+Monthly Settlement Report,System shall generate monthly settlement reports.,User accesses the Monthly Settlement Report section.; User specifies the reporting period.; System retrieves data and generates the report.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+Monthly Settlement Report
+ details
+System shall generate monthly settlement reports.
+### process flow
+User accesses the Monthly Settlement Report section.; User specifies the reporting period.; System retrieves data and generates the report."
+Call Generation Report by Destination,System shall generate call generation reports based on destination.,User accesses the Call Generation Report section.; User specifies the destination and reporting period.; System retrieves data and generates the report.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+Call Generation Report by Destination
+ details
+System shall generate call generation reports based on destination.
+### process flow
+User accesses the Call Generation Report section.; User specifies the destination and reporting period.; System retrieves data and generates the report."
+Monthly Traffic Summary Report,System shall generate monthly traffic summary reports.,User accesses the Monthly Traffic Summary Report section.; User specifies the reporting period.; System retrieves data and generates the report.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+Monthly Traffic Summary Report
+ details
+System shall generate monthly traffic summary reports.
+### process flow
+User accesses the Monthly Traffic Summary Report section.; User specifies the reporting period.; System retrieves data and generates the report."
+Volume Commitment Reports,System shall generate volume commitment reports.,User accesses the Volume Commitment Reports section.; User specifies the criteria for the report.; System retrieves data and generates the report.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+Volume Commitment Reports
+ details
+System shall generate volume commitment reports.
+### process flow
+User accesses the Volume Commitment Reports section.; User specifies the criteria for the report.; System retrieves data and generates the report."
+Volume Commitment Verification Report,System shall generate volume commitment verification reports.,User accesses the Volume Commitment Verification Report section.; User specifies the criteria for the report.; System retrieves data and generates the report.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+Volume Commitment Verification Report
+ details
+System shall generate volume commitment verification reports.
+### process flow
+User accesses the Volume Commitment Verification Report section.; User specifies the criteria for the report.; System retrieves data and generates the report."
+International Invoice Report,System shall generate international invoice reports.,User accesses the International Invoice Report section.; User specifies the criteria for the report.; System retrieves data and generates the report.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+International Invoice Report
+ details
+System shall generate international invoice reports.
+### process flow
+User accesses the International Invoice Report section.; User specifies the criteria for the report.; System retrieves data and generates the report."
+International Revenue and Cost Reports,System shall generate international revenue and cost reports.,User accesses the International Revenue and Cost Reports section.; User specifies the criteria for the report.; System retrieves data and generates the report.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+International Revenue and Cost Reports
+ details
+System shall generate international revenue and cost reports.
+### process flow
+User accesses the International Revenue and Cost Reports section.; User specifies the criteria for the report.; System retrieves data and generates the report."
+International Voice Terminating Traffic Report,System shall generate reports for international voice terminating traffic.,User accesses the International Voice Terminating Traffic Report section.; User specifies the criteria for the report.; System retrieves data and generates the report.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+International Voice Terminating Traffic Report
+ details
+System shall generate reports for international voice terminating traffic.
+### process flow
+User accesses the International Voice Terminating Traffic Report section.; User specifies the criteria for the report.; System retrieves data and generates the report."
+International Data Revenue Summary Report,System shall generate data revenue summary reports.,User accesses the Data Revenue Summary Report section.; User specifies the criteria for the report.; System retrieves data and generates the report.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+International Data Revenue Summary Report
+ details
+System shall generate data revenue summary reports.
+### process flow
+User accesses the Data Revenue Summary Report section.; User specifies the criteria for the report.; System retrieves data and generates the report."
+International Data Revenue Detailed Summary Report,System shall generate detailed data revenue summary reports.,User accesses the Data Revenue Detailed Summary Report section.; User specifies the criteria for the report.; System retrieves data and generates the report.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+International Data Revenue Detailed Summary Report
+ details
+System shall generate detailed data revenue summary reports.
+### process flow
+User accesses the Data Revenue Detailed Summary Report section.; User specifies the criteria for the report.; System retrieves data and generates the report."
+International Data Cost Report,System shall generate data cost reports.,User accesses the Data Cost Report section.; User specifies the criteria for the report.; System retrieves data and generates the report.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+International Data Cost Report
+ details
+System shall generate data cost reports.
+### process flow
+User accesses the Data Cost Report section.; User specifies the criteria for the report.; System retrieves data and generates the report."
+Monthly International Revenue Voice & Cost Dashboard,System shall provide a dashboard for monthly international revenue and voice costs.,User accesses the dashboard.; System displays the relevant data on the dashboard.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+Monthly International Revenue Voice & Cost Dashboard
+ details
+System shall provide a dashboard for monthly international revenue and voice costs.
+### process flow
+User accesses the dashboard.; System displays the relevant data on the dashboard."
+Monthly International Voice Terminating Traffic Dashboard,System shall provide a dashboard for monthly international voice terminating traffic.,User accesses the dashboard.; System displays the relevant data on the dashboard.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+Monthly International Voice Terminating Traffic Dashboard
+ details
+System shall provide a dashboard for monthly international voice terminating traffic.
+### process flow
+User accesses the dashboard.; System displays the relevant data on the dashboard."
+Netting Off,System shall generate netting-off reports.,User accesses the Netting-Off Reports section.; User specifies the criteria for the report.; System retrieves data and generates the report.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+Netting Off
+ details
+System shall generate netting-off reports.
+### process flow
+User accesses the Netting-Off Reports section.; User specifies the criteria for the report.; System retrieves data and generates the report."
+Best Cost Route (BCR) Reporting,System shall generate Best Cost Route reports.,User accesses the BCR Reports section.; User specifies the criteria for the report.; System retrieves data and generates the report.,"below is set of use cases that provides details of the use case and hence provides the process flow for the same### use case:
+Best Cost Route (BCR) Reporting
+ details
+System shall generate Best Cost Route reports.
+### process flow
+User accesses the BCR Reports section.; User specifies the criteria for the report.; System retrieves data and generates the report."
